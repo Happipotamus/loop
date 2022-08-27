@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example_app</string>
+    <string name="masukkan_jumlah_gambar">Masukkan Jumlah Gambar</string>
+    <string name="button">Button</string>
+</resources>
